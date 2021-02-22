@@ -20,7 +20,7 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ![Stats](https://github-readme-stats.vercel.app/api?username=jas777&count_private=true&show_icons=true&theme=radical)
 
 ### Currently working on 🛠
-- **Venom** - my flag project, a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
+- **Venom** - my flagship project, a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
 - **Quassendorf** - a control panel for my model train station (H0 if you're curious)
 
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
