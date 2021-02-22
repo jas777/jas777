@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jas777/jas777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me 👀
 So basically I'm a _young_ dev from Poland that started coding around the age of 10 and learned Java ~3 years later.
 
