@@ -13,12 +13,23 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 - HTML & CSS & SCSS
 - Vue (❤)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas777&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas777&layout=compact&theme=radical&langs_count=10)
 
 ### General stats 📊
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jas777&count_private=true&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=jas777&count_private=true&show_icons=true&theme=radical)
+
+### Currently working on 🛠
+- **Venom** - my flag project, a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
+- **Quassendorf** - a control panel for my model train station (H0 if you're curious)
+
+![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
+
+- **Sarano** - a Discord bot written in Kotlin, just cause I wanna mess with it
+- **Vexlo** - a Discord bot written in Rust, same reason as Sarano
+- **Signalbox** - a Minecraft mod that adds train signals (mainly for Immersive Railroading), but that's on hold for some time
+- **Many others** - I don't put everything on git, but I want to start doing that :)
 
 ### Contact 💌
 
-Discord - jas777#5796
+**Discord** - jas777#5796
