@@ -22,15 +22,15 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ### Currently working on 🛠
 - **Heating Control System** - a simple relay-based heater controller with timer, nothing fancy :)
 - **School materials** - I'm preparing some materials that may or may not help someone with a specific subject
-
+- **Quassendorf** - a control panel for my model train station (H0 if you're curious)
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
 
-- **Sarano** - a Discord bot written in Kotlin, just cause I wanna mess with it
+### Projects worth mentioning
+- **Sarano** - a Discord bot base written in Kotlin, just cause I wanna mess with it
 - **Vexlo** - a Discord bot written in Rust, same reason as Sarano
 - **Signalbox** - a Minecraft mod that adds train signals (mainly for Immersive Railroading), but that's on hold for some time
 - **Many others** - I don't put everything on git, but I want to start doing that :)
-- **Venom** - my flagship project, a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
-- **Quassendorf** - a control panel for my model train station (H0 if you're curious)
+- **Venom** - a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
 
 ### Contact 💌
 
