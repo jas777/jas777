@@ -35,4 +35,4 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ### Contact 💌
 
 **Discord** - jas777#5796
-**LinkedIn** - [https://www.linkedin.com/in/jan-czeszejko-sochacki-a38369216/](Jan Czeszejko-Sochacki)
+**LinkedIn** - [Jan Czeszejko-Sochacki](https://www.linkedin.com/in/jan-czeszejko-sochacki-a38369216/)
