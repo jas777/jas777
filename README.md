@@ -12,6 +12,8 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 - C#
 - HTML & CSS & SCSS
 - Vue (❤)
+- React
+- PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas777&layout=compact&theme=radical&langs_count=10)
 
@@ -35,4 +37,5 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ### Contact 💌
 
 **Discord** - jas777#5796
+
 **LinkedIn** - [Jan Czeszejko-Sochacki](https://www.linkedin.com/in/jan-czeszejko-sochacki-a38369216/)
