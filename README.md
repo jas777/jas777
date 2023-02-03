@@ -6,13 +6,13 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 - Kotlin (❤)
 - JavaScript
 - TypeScript (❤)
+- Vue (❤)
+- React
+- HTML & CSS & SCSS
 - Rust
 - Python
 - C++
 - C#
-- HTML & CSS & SCSS
-- Vue (❤)
-- React
 - PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas777&layout=compact&theme=radical&langs_count=10)
@@ -22,17 +22,15 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ![Stats](https://github-readme-stats.vercel.app/api?username=jas777&count_private=true&show_icons=true&theme=radical)
 
 ### Currently working on 🛠
-- **Heating Control System** - a simple relay-based heater controller with timer, nothing fancy :)
-- **School materials** - I'm preparing some materials that may or may not help someone with a specific subject
-- **Quassendorf** - a control panel for my model train station (H0 if you're curious)
+- **Railink Dispatch** - a modular model train station control panel syste, later to be merged with a train control system
+- **Plantduino** - a simple Arduino-based plant watering system
+- **Portfolio** - yeah... I'm almost finished! I promise...
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
 
 ### Projects worth mentioning
 - **Sarano** - a Discord bot base written in Kotlin, just cause I wanna mess with it
-- **Vexlo** - a Discord bot written in Rust, same reason as Sarano
-- **Signalbox** - a Minecraft mod that adds train signals (mainly for Immersive Railroading), but that's on hold for some time
-- **Many others** - I don't put everything on git, but I want to start doing that :)
-- **Venom** - a Discord bot written in Java that has an extensive argument parsing system aswell as custom command handler
+- **Heating Control System** - a simple relay-based heater controller with timer, nothing fancy :)
+- **Notebux** - a markdown note storage used extensively during my remote schooling (AKA COVID boredom project)
 
 ### Contact 💌
 
