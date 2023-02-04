@@ -28,7 +28,7 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
 
 ### Projects worth mentioning
-- **Sarano** - a Discord bot base written in Kotlin, just cause I wanna mess with it
+- **Sarano** - a Discord bot base written in Kotlin, rather basic
 - **Heating Control System** - a simple relay-based heater controller with timer, nothing fancy :)
 - **Notebux** - a markdown note storage used extensively during my remote schooling (AKA COVID boredom project)
 
