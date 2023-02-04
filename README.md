@@ -22,7 +22,7 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ![Stats](https://github-readme-stats.vercel.app/api?username=jas777&count_private=true&show_icons=true&theme=radical)
 
 ### Currently working on 🛠
-- **Railink Dispatch** - a modular model train station control panel syste, later to be merged with a train control system
+- **Railink Signalbox** - a modular model train station control panel syste, later to be merged with a train control system
 - **Plantduino** - a simple Arduino-based plant watering system
 - **Portfolio** - yeah... I'm almost finished! I promise...
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
