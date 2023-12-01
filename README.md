@@ -29,7 +29,7 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 
 ### Projects worth mentioning
 - **Sarano** - a Discord bot base written in Kotlin, rather basic
-- **Heating Control System** - a simple relay-based heater controller with timer, nothing fancy :)
+- **Heating Control System** - a simple relay-based heater controller with a timer, nothing fancy :)
 - **Notebux** - a markdown note storage used extensively during my remote schooling (AKA COVID boredom project)
 
 ### Contact 💌
