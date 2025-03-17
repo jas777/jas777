@@ -4,6 +4,7 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 ### Languages I know 📚
 - Java (❤)
 - Kotlin (❤)
+- Zig (❤)
 - JavaScript
 - TypeScript (❤)
 - Vue (❤)
@@ -23,7 +24,6 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 
 ### Currently working on 🛠
 - **Railink Signalbox** - a modular model train station control panel syste, later to be merged with a train control system
-- **Plantduino** - a simple Arduino-based plant watering system
 - **Portfolio** - yeah... I'm almost finished! I promise...
 ![Dashboard sample](https://cdn.discordapp.com/attachments/258502145383464960/801511692613713920/unknown.png)
 
@@ -31,9 +31,10 @@ So basically I'm a _young_ dev from Poland that started coding around the age of
 - **Sarano** - a Discord bot base written in Kotlin, rather basic
 - **Heating Control System** - a simple relay-based heater controller with a timer, nothing fancy :)
 - **Notebux** - a markdown note storage used extensively during my remote schooling (AKA COVID boredom project)
+- **Plantduino** - a simple Arduino-based plant watering system
 
 ### Contact 💌
 
-**Discord** - jas777#5796
+**Discord** - jas777
 
 **LinkedIn** - [Jan Czeszejko-Sochacki](https://www.linkedin.com/in/jan-czeszejko-sochacki-a38369216/)
